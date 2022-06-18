@@ -22,7 +22,7 @@ const List<String> kCareerTitles = [
 ];
 
 //Company Logos and images directory
-const String coverPhoto = 'assets/doodleTransparency.png';
+// const String coverPhoto = 'assets/doodleTransparency.png';
 const String coverPhoto2 = 'assets/cover_web.png';
 const String universityLogo = 'assets/university.png';
 const String bigsoftLogo = 'assets/bigsoft.png';
