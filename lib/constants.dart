@@ -45,9 +45,9 @@ const String githubLink = "https://github.com/LaPyaeOo";
 const String stackoverflowLink = "https://stackoverflow.com/users/9019910/leolinux";
 const String linkedinLink = "https://www.linkedin.com/in/la-pyae-b438a5199/";
 const String facebookLink = "https://www.facebook.com/profile.php?id=100010377570484";
-const String resumeLink = "https://drive.google.com/file/d/1d2zybFQ4suk3n3VypjayIS3G8gVLBS1C/view?usp=sharing";
+const String resumeLink = "https://drive.google.com/file/d/18GkKHEEMKeCbzjdfEZYUZH5xwVFXR10e/view?usp=sharing";
 
-const String portfolioLink = "";
+const String portfolioLink = "https://github.com/LaPyaeOo/LaPyaeOo-portfolio.github.io";
 const kSocialLinks = [
   githubLink,
   stackoverflowLink,
@@ -56,9 +56,7 @@ const kSocialLinks = [
 ];
 
 // URL Launcher
-void launchURL(String url) async => await launchUrl(Uri.parse(url))
-    ? await launchUrl(Uri.parse(url))
-    : throw 'Could not launch $url';
+void launchURL(String url) async => await launchUrl(Uri.parse(url));
 
 // Community
 final kCommunityLogo = [
