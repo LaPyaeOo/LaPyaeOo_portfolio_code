@@ -156,11 +156,11 @@ class AboutDesktop extends StatelessWidget {
                             padding: const EdgeInsets.all(8.0),
                             child: OutlinedCustomBtn(
                               onPressed: () {
-                                // html.window.open(
-                                //     resumeLink,
-                                //     "pdf");
-                                launchURL(
-                                    kResumeLink);
+                                html.window.open(
+                                    'https://drive.google.com/file/d/18GkKHEEMKeCbzjdfEZYUZH5xwVFXR10e/view?usp=sharing',
+                                    "pdf");
+                                // launchURL(
+                                //     kResumeLink);
                               },
                               btnText: "Resume",
                             ),

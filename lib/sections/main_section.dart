@@ -238,9 +238,11 @@ class MainPageState extends State<MainPage> {
                   borderRadius: BorderRadius.circular(5.0),
                   side: const BorderSide(color: kPrimaryColor)),
               onPressed: () {
-                // html.window.open(kResumeLink, "pdf");
-                launchURL(
-                    kResumeLink);
+                html.window.open(
+                    'https://drive.google.com/file/d/18GkKHEEMKeCbzjdfEZYUZH5xwVFXR10e/view?usp=sharing',
+                    "pdf");
+                // launchURL(
+                //     kResumeLink);
               },
               child: Text(
                 "RESUME",
@@ -316,7 +318,7 @@ class MainPageState extends State<MainPage> {
                       borderRadius: BorderRadius.circular(5.0),
                       side: const BorderSide(color: kPrimaryColor)),
                   onPressed: () {
-                    launchURL(kResumeLink);
+                    launchURL('https://drive.google.com/file/d/18GkKHEEMKeCbzjdfEZYUZH5xwVFXR10e/view?usp=sharing');
                   },
                   child: ListTile(
                     leading: const Icon(
