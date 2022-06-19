@@ -16,33 +16,3 @@ class HomePage extends StatelessWidget {
     );
   }
 }
-
-
-// CachedNetworkImage(
-// placeholder: (BuildContext context, string) {
-// return Container(
-// color: mainColor,
-// child: Center(
-// child: Image.asset(
-// "assets/image_search.png",
-// fit: BoxFit.cover,
-// ),
-// ),
-// );
-// },
-// imageUrl: agentsList[index].profilePicture,
-// imageBuilder: (context, imageProvider) => Ink.image(
-// image: imageProvider,
-// fit: BoxFit.cover,
-// ),
-// errorWidget: (context, url, error) => Ink(
-// color: mainColor,
-// child: Center(
-// child: Icon(
-// Icons.face,
-// size: mediaQuery.size.width / 4,
-// color: Colors.black.withOpacity(0.5),
-// ),
-// ),
-// ),
-// ),

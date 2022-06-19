@@ -74,7 +74,10 @@ class ProjectCardState extends State<ProjectCard> {
       //   widget.projectLink!,
       // ),
       onTap: () {
-        if(widget.projectTitle == 'Phone'){
+        if(widget.projectTitle == 'Location'){
+          null;
+        }
+        else if(widget.projectTitle == 'Phone'){
           launchURL(
               "tel: $phone");
         }
