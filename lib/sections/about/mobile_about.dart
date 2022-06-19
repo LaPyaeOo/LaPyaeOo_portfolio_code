@@ -158,9 +158,10 @@ class AboutMobile extends StatelessWidget {
                   child: OutlinedCustomBtn(
                       btnText: "Resume",
                       onPressed: () {
-                        kIsWeb
-                            ? html.window.open(resumeLink, "pdf")
-                            : launchURL(resumeLink);
+                        // kIsWeb
+                        //     ? html.window.open(resumeLink, "pdf")
+                        //     :
+                        launchURL(resumeLink);
                       }),
                 ),
                 Container(
