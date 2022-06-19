@@ -1,0 +1,90 @@
+{
+  "name": "La Pyae Oo",
+  "email": "lapyaeootharthar@gmail.com",
+  "kResumeLink" : "https://drive.google.com/file/d/18GkKHEEMKeCbzjdfEZYUZH5xwVFXR10e/view?usp=sharing",
+  "subtitle": [
+    "Flutter Developer",
+    "UI/UX Enthusiast",
+    "App Crafting Enthusiast"
+  ],
+  "socialLinks": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/profile.php?id=100010377570484"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/la-pyae-b438a5199/"
+    },
+    {
+      "platform": "github",
+      "url": "https://drive.google.com/file/d/18GkKHEEMKeCbzjdfEZYUZH5xwVFXR10e/view?usp=sharing"
+    }
+  ],
+  "about_me_headline": "Hello! I’m La Pyae Oo (La Pyae). I’m a flutter developer focused on crafting mobile software and mobile user experience design.",
+  "about_me_details": "I graduated with electronic engineering major from WYTU (West Yangon Technological University) which located in Myanmar. I am absolutely positively thrilled to be starting to work in Mobile development!!! I’ve always admired how thoughtful softwares has the power to change our world. Whether it’s through simplifying one interaction or giving users an opportunity to view things through a new lens, I love working on projects that make people happy. At any scale. In the past few years, I’ve found myself in programming fundamentals in both theory and practical learning, language learning, mobile software front-end development, application processing development, language learning, and smart education.",
+  "technologies": [
+    "Flutter",
+    "Dart",
+    "Java",
+    "Python",
+    "HTML",
+    "CSS",
+    "Bootstrap"
+  ],
+  "what_i_do": [
+    {
+      "service_icon": "assets/services/app.png",
+      "service_name": "Mobile App Development",
+      "service_description": "Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!"
+    },
+    {
+      "service_icon": "assets/services/ui.png",
+      "service_name": "UI/UX Designing",
+      "service_description": "Modern UI/UX Designing\n- Mobile designs\n- Interactive UI designs\n- Responsiveness"
+    },
+    {
+      "service_icon": "assets/services/rapid.png",
+      "service_name": "Rapid Prototyping",
+      "service_description": "Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype"
+    }
+  ],
+  "hire_me": {
+    "mobile": "+95 979 586 7186",
+    "gmail": "lapyaeootharthar@gmail.com"
+  },
+  "projects": [
+    {
+      "banner": "assets/projects/bloc_bg.png",
+      "icon": "assets/projects/flutter.png",
+      "title": "Flutter boilerplate",
+      "description": "Reactive custom boilerplate to develop flutter applications with smart. Develop with BLOC pattern and most suitable for complex applications. Can check in Git-Hub because of open source!"
+    },
+    {
+      "banner": "assets/projects/bigsoft_bg.png",
+      "icon": "assets/projects/bigsoft_pj.png",
+      "title": "Bigsoft fin-tech",
+      "description": "One of the mobile application of Bigsoft microfinance Technology company. People and company are more efficient for loan and repayment with this application. Can only install on Google Play Store."
+    },
+    {
+      "banner": "assets/projects/focus_beauty.png",
+      "icon": "assets/projects/focusBeauty_bg.png",
+      "title": "Focus Beauty",
+      "description": "Mobile application that made from Zote company for client. For the purpose of selling products, checking customers and agents contributions. This app can also be installed on Google Play Store, because of privacy."
+    }
+  ],
+  "contact": [
+    {
+      "param": "address",
+      "value": "Yangon, Myanmar"
+    },
+    {
+      "param": "phone",
+      "value": "(+95) 795 876 186"
+    },
+    {
+      "param": "email",
+      "value": "lapyaeootharthar@gmail.com"
+    }
+  ]
+}
