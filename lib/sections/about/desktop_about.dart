@@ -160,7 +160,7 @@ class AboutDesktop extends StatelessWidget {
                                 //     resumeLink,
                                 //     "pdf");
                                 launchURL(
-                                    resumeLink);
+                                    kResumeLink);
                               },
                               btnText: "Resume",
                             ),

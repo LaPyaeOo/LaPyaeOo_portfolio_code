@@ -238,7 +238,9 @@ class MainPageState extends State<MainPage> {
                   borderRadius: BorderRadius.circular(5.0),
                   side: const BorderSide(color: kPrimaryColor)),
               onPressed: () {
-                html.window.open(resumeLink, "pdf");
+                // html.window.open(kResumeLink, "pdf");
+                launchURL(
+                    kResumeLink);
               },
               child: Text(
                 "RESUME",
@@ -314,7 +316,7 @@ class MainPageState extends State<MainPage> {
                       borderRadius: BorderRadius.circular(5.0),
                       side: const BorderSide(color: kPrimaryColor)),
                   onPressed: () {
-                    launchURL(resumeLink);
+                    launchURL(kResumeLink);
                   },
                   child: ListTile(
                     leading: const Icon(

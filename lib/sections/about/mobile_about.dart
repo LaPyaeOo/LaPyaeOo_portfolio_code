@@ -161,7 +161,7 @@ class AboutMobile extends StatelessWidget {
                         // kIsWeb
                         //     ? html.window.open(resumeLink, "pdf")
                         //     :
-                        launchURL(resumeLink);
+                        launchURL(kResumeLink);
                       }),
                 ),
                 Container(

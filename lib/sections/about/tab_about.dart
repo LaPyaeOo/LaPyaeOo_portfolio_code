@@ -178,7 +178,7 @@ class AboutTab extends StatelessWidget {
                       //         "pdf")
                       //     :
                       launchURL(
-                          resumeLink);
+                          kResumeLink);
                     }),
               ),
               Container(
