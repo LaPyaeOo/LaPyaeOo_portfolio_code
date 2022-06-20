@@ -42,7 +42,7 @@ const kSocialIcons = [
 ];
 
 //const String githubLink = "https://github.com/LaPyaeOo";
-const String githubLink = "https://drive.google.com/file/d/18GkKHEEMKeCbzjdfEZYUZH5xwVFXR10e/view?usp=sharing";
+const String githubLink = "https://github.com/LaPyaeOo";
 const String stackoverflowLink = "https://stackoverflow.com/users/9019910/leolinux";
 const String linkedinLink = "https://www.linkedin.com/in/la-pyae-b438a5199/";
 const String facebookLink = "https://www.facebook.com/profile.php?id=100010377570484";

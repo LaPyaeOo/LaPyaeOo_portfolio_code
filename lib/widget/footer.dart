@@ -32,7 +32,7 @@ class Footer extends StatelessWidget {
             InkWell(
               onTap: () => launchURL(portfolioLink),
               child: const Text(
-                "Flutter",
+                "Flutter by La Pyae",
                 style: TextStyle(color: Colors.blue),
               ),
             )

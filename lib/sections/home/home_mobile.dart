@@ -39,7 +39,7 @@ class HomeMobile extends StatelessWidget {
                   mainAxisSize: MainAxisSize.min,
                   children: [
                     Text(
-                      "H",
+                      "Hello! ",
                       style: GoogleFonts.montserrat(
                           fontSize: height * 0.025,
                           color: themeProvider.lightTheme
