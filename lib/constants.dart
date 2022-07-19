@@ -149,6 +149,6 @@ final kContactTitles = [
 
 final kContactDetails = [
   address,
-  "(+95) 795 876 186",
+  "(+95) 795 867 186",
   "lapyaeootharthar@gmail.com"
 ];
